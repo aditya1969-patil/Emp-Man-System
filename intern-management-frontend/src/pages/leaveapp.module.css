@@ -1,0 +1,13 @@
+.body1{
+    background-color: #faf3e0;
+    min-height: 100vh;
+}
+
+.leave_section{
+    height: 350px;
+    width: 100%;
+}
+.top_margin{
+    margin-top: 8rem;
+    margin-bottom: 1rem;
+}
